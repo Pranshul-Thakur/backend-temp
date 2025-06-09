@@ -1,0 +1,11 @@
+flask
+flask-cors
+streamlit
+google-generativeai
+python-dotenv
+pymupdf
+python-docx
+werkzeug
+gunicorn
+flask_caching
+BeautifulSoup4
