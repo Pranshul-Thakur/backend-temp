@@ -9,7 +9,7 @@ from google.generativeai import configure, GenerativeModel
 from werkzeug.utils import secure_filename
 from flask_caching import Cache
 
-configure(api_key="AIzaSyDaFuZ9cW4NlWDzPl_nRHl3dcFCicZP-Ko")
+configure(api_key="")
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
